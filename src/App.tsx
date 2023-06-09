@@ -1,5 +1,3 @@
-import React from "react";
-
 const App = () => {
   const handlePermission = async () => {
     console.log("권한 요청 중...");
